@@ -9,31 +9,31 @@
 ## Menghitung Nilai dari yang terkecil hingga terbesar
 - Berikut ini adalah syntax codenya:
 ![image3](SS/SS3.jpg)
- Dan ini adalah hasil print tersebut:
+- Dan ini adalah hasil print tersebut:
 ![image4](SS/SS4.jpg)
 
 ## Perogram perulangan bertingkat nested
 - Berikut ini adalah syntax codenya:
 ![image5](SS/SS5.jpg)
- Ini adalah hasilnya:
+- Ini adalah hasilnya:
 ![image6](SS/SS6.jpg)
 
 ## Menghitung bilangan Random 
 - Berikut ini adalah syntax codenya:
 ![image7](SS/SS7.jpg)
- Berikut ini adalah hasil dari printnya:
+-Berikut ini adalah hasil dari printnya:
 ![image8](SS/SS8.jpg)
 
 ## Menentukan Nilai terbesar dari 3 bilangan
 - Berikut ini adalah syntax codenya:
 ![image9](SS/SS9.jpg)
- Dan ini adalah hasinya:
+- Dan ini adalah hasinya:
 ![image10](SS/SS10.jpg)
 
 ## Menampilkan bilangan terbesar dari n buah data yang diinputkan, dan berakhir dengan menuliskan "0"
 - Berikut ini adalah syntax codenya:
 ![image11](SS/SS11.jpg)
- Dan ini adalah hasil running nya:
+- Dan ini adalah hasil running nya:
 ![image12](SS/SS12.jpg)
 
 ## Menghitung laba
